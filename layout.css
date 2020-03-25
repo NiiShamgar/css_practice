@@ -1,0 +1,60 @@
+
+#nav{
+	background-color: rgb(165, 164, 164);
+	flex-direction: left;
+	height: 40px;
+}
+
+
+#menu{
+	background-color: rgb(165, 164, 164);
+	margin-top: 20px;
+	height: 250px;
+}
+
+.flex-container{
+	display: flex;
+	margin-top: 25px;
+	flex-wrap: wrap;
+	flex-direction: row;
+	height: 150px;
+
+	align-content: center;
+	justify-content: center;
+
+}
+
+
+
+
+#left{
+	flex-direction: left;
+	background-color: rgb(165, 164, 164);
+	margin-right: 25px;
+	width: 430px;
+	height: 150px;
+	
+}
+
+#middle{
+    flex-direction: center;
+	background-color: rgb(165, 164, 164);
+	margin-right: 30px;
+	width: 430px;
+	height: 150px;
+	
+}
+
+#right{
+	background-color:  rgb(165, 164, 164);
+	height: 150px;
+	width: 430px
+}
+
+
+
+#footer{
+	background-color:  rgb(165, 164, 164);
+	margin-top: 30px;
+	height: 100px;
+}

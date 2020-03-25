@@ -1,0 +1,20 @@
+body {
+	background-color: #70757a;
+
+	font-family: Roboto;
+}
+
+.flex-container{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
+	justify-content: center;
+	width: 500px;
+}
+
+
+bo
+#70757a/--light grey
+#3c4043;/--Grey--/
+
+background-color: rgb(0,116,237);/--deep blue/
